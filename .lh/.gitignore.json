@@ -3,11 +3,27 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 0,
+            "activePatchIndex": 4,
             "patches": [
                 {
                     "date": 1666093467098,
                     "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1666094220106,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,4 +1,4 @@\n-# dependencies\n+.lh\n /node_modules\n /build\n /dist\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1666095560317,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,4 +1,5 @@\n .lh\n+/.lh\n /node_modules\n /build\n /dist\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1666095568498,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,5 +1,4 @@\n .lh\n-/.lh\n /node_modules\n /build\n /dist\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1666095577513,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,4 +1,5 @@\n .lh\n+/.lh\n /node_modules\n /build\n /dist\n\\ No newline at end of file\n"
                 }
             ],
             "date": 1666093467098,

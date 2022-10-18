@@ -1,4 +1,5 @@
-# dependencies
+.lh
+/.lh
 /node_modules
 /build
 /dist
