@@ -10,7 +10,6 @@ For Admin:
 /%WEB_APP_NAME%/admin/home                 :       Templates list page
 /%WEB_APP_NAME%/admin/templates            :       Templates list page
 /%WEB_APP_NAME%/admin/users                :       Users list page
-/%WEB_APP_NAME%/admin/users                :       Users list page
 /%WEB_APP_NAME%/admin/addresses            :       Address list page
 
 
