@@ -5,12 +5,11 @@ let WEB_APP_NAME = "digital_business_card";
 For Admin:
 ----------
 
-/%WEB_APP_NAME%/                           :       Templates list page (here it should navigate to /admin)
-/%WEB_APP_NAME%/admin                      :       Templates list page
-/%WEB_APP_NAME%/admin/home                 :       Templates list page
-/%WEB_APP_NAME%/admin/templates            :       Templates list page
-/%WEB_APP_NAME%/admin/users                :       Users list page
-/%WEB_APP_NAME%/admin/addresses            :       Address list page
+/%WEB_APP_NAME%/                           :       Templates list page
+/%WEB_APP_NAME%/home                       :       Templates list page
+/%WEB_APP_NAME%/templates                  :       Templates list page
+/%WEB_APP_NAME%/users                      :       Users list page
+/%WEB_APP_NAME%/addresses                  :       Address list page
 
 
 For User:
