@@ -1,23 +1,14 @@
-import logo from './assets/img/logo.svg';
-import './App.css';
+import DBCHeader from "./components/header/dbc.header";
+import DBCBody from "./components/body/dbc.body";
+import DBCFooter from "./components/footer/dbc.footer";
+import "./assets/css/dbc.css";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <DBCHeader />
+      <DBCBody />
+      <DBCFooter />
     </div>
   );
 }
